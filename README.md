@@ -23,9 +23,7 @@ The only thing you need to do is download the contents of this repository in a w
 
 # Pictures and videos
 ![](./static/demo.png)
-<video width="600" controls src="./static/dvid.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/71c2d868-c078-451a-9811-89f17cbad275
 
 # Remarks
 You may ask, why does this executable take so long to close down? Honestly I don't really know what the issue is, but at least if you open it without using the terminal but just click on the executable, you have some time to jot down or copy your newly generated password!
